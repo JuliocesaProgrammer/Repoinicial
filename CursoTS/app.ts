@@ -1,5 +1,5 @@
-const person = {
-    name: "John Doe",
+//const person = {
+  //  name: "John Doe",
     age: 30,
     city: "New York",
     greet() {
